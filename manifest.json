@@ -1,0 +1,20 @@
+{
+  "catalog_id": "e0654719998601a3",
+  "seal": "4721424167835376.00",
+  "products": [
+    {
+      "name": "Fraymus Python",
+      "price": 19,
+      "books": 3,
+      "examples": 14,
+      "cube_slots": "9-11",
+      "files": {
+        "catalogue": "catalogue.json",
+        "wasm": "catalogue.wasm",
+        "help": "help.md",
+        "manifest": "manifest.json",
+        "plasmid": "plasmid.fasta"
+      }
+    }
+  ]
+}
